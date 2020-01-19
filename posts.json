@@ -1,0 +1,44 @@
+{
+  "allmovie" : [
+  {
+  "title" : "Action"
+  }
+  ,
+   {
+  "title" : "Drama"
+  }
+  ,
+   {
+  "title" : "Comedy"
+  }
+  ,
+   {
+  "title" : "Si-Fi"
+  }
+  ,
+   {
+  "title" : "Adult"
+  }
+  ,
+   {
+  "title" : "Bio"
+  }
+  ,
+   {
+  "title" : "Advanture"
+  }
+  ,
+   {
+  "title" : "Mystery"
+  }
+  ,
+   {
+  "title" : "Music"
+  }
+  ,
+   {
+  "title" : "War"
+  }
+  
+  ]
+  }
